@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix=7
+game=Type 7play
+stayinchannel=true
+songinstatus=false
+token=NTUxODYzNjg5NDczNDI1NDM1.D13Kog.kcfjNzF18yS9kA7btx1PewhTZeE
